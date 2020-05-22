@@ -1,3 +1,7 @@
+**This is no longer being updated. For the updated version of the basketball game, see the repo Basketball_Game**
+
+
+
 Currently, this program simulates a single game of basketball and produces a box score for the game.
 The players who participate in the game have generated names (from an extensive list), heights, armspans, and skills.
 
